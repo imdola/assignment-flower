@@ -18,7 +18,7 @@
 
 .heading {
     color: #272727;
-    font-size: 35px;
+    font-size: 44px;
     font-weight: 800;
 }
 
@@ -430,7 +430,7 @@ nav li a:hover {
     position: absolute;
     top: 75px;
     left: 360px;
-    font-size: 35px;
+    font-size: 44px;
     color: #272727;
     text-align: center;
     font-weight: 800;
