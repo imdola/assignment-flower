@@ -367,3 +367,33 @@ nav li a:hover {
 
 /* Instagram Section Ends  */
 
+/* .search-box-container{
+    margin-top: 100px;
+    text-align: center;
+}
+.search-img img{
+    position: relative;
+}
+.title-content{
+    position: absolute;
+
+} */
+
+.background-img{
+    margin-top: 100px;
+    position: relative;
+    text-align: center;
+}
+
+.search-heading{
+    position: absolute;
+    bottom: 100px;
+}
+.all-text{
+    position: relative;
+    text-align: center;
+}
+.search-heading{
+    margin-left: 680px;
+    margin-bottom: 50px;
+}
